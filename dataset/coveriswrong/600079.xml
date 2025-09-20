@@ -1,0 +1,26 @@
+<annotation>
+	<folder>极片错误6</folder>
+	<filename>600079.jpg</filename>
+	<path>F:\焊接类型\极片错误6\600079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coveriswrong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>237</ymin>
+			<xmax>1944</xmax>
+			<ymax>1624</ymax>
+		</bndbox>
+	</object>
+</annotation>
