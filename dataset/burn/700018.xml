@@ -1,0 +1,26 @@
+<annotation>
+	<folder>burn</folder>
+	<filename>700018.jpg</filename>
+	<path>F:\焊接类型\burn\700018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>611</ymin>
+			<xmax>1188</xmax>
+			<ymax>1879</ymax>
+		</bndbox>
+	</object>
+</annotation>
