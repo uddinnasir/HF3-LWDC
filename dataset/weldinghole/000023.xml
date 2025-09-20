@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>000023.jpg</filename>
+	<path>F:\焊接类型\dataset\000023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weldinghole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2051</xmin>
+			<ymin>662</ymin>
+			<xmax>2276</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>
