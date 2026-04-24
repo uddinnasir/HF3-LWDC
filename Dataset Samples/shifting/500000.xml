@@ -1,0 +1,26 @@
+<annotation>
+	<folder>偏移</folder>
+	<filename>500000.jpg</filename>
+	<path>F:\焊接类型\偏移5\偏移\500000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shifting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>120</ymin>
+			<xmax>2086</xmax>
+			<ymax>1594</ymax>
+		</bndbox>
+	</object>
+</annotation>
